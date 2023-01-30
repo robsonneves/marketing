@@ -1,0 +1,183 @@
+
+
+SoLoMo
+    Social
+    Local
+    Mobile
+
+Localização / Fotos dos pratos / Avaliações dos clientes
+
+    - Mais atendimento digital
+    - Mais produção de conteudo 
+    - Mais relacionamento com o publico
+    - Equipes mais qualificadas com ferramentas digitais
+    - Tecnologia de atendimento digital
+
+
+Marketing de Conteudo e Funil de Vendas
+
+    Atrair              Trafego ------------------
+        Converter       Visitantes ------------
+            Relacionar  Leads --------------
+                Vender  Oportunidades ---
+                    Clientes --------
+
+CRM - Software de vendas digitais
+Cada etapa do funil precisa ser criado um tipo de conteudo
+
+
+=== Insights sobre o bom conteudo
+
+    Fluxo ideal de um bom conteudo
+        Chamar a atenção --> Desenvolver Interese --> Criar desejo --> Gerar estimulo a atenção
+
+    Informação / Educação / Entreterimento / Infotenimento
+
+    3Cs
+        Continuo
+        Consistente
+        Convincente
+
+    Tipos de Conteudo   
+        Modelo 3h
+            Inspiração - HERO - Publicidade de acordo com calendario da marca
+            Entreterimento  - HUB - Publicações de rotina
+            Informação e Educação - HELP - Ajuda as pessoas a fazerem algo.
+
+        Modelo PESO 
+            P - PAID - PAGO = midias pagas
+            E - Earned - GANHO = midias conquistadas
+            S - Shared - Compartilhado = midias compartilhadas
+            O - Owned - Proprietario = midias proprias
+
+    Conseitos de estrategias de conteudo
+        Branded Content  -> Gerar envolvimento com a marca
+        User generated content -> Cliente fazer algum comentario sobre sua marca
+        Inbound marketing -> geração de lead atravez de um funil de vendas
+
+
+=== Como planejar sua estrategia de conteudo   
+
+    10 passos 
+        01 - Qual é seu objetivo ?
+        02 - O que vc vende ? 
+        03 - O que seus clientes querem de vc ?
+        04 - Qual é sua historia ?
+        05 - O que vc tem a dizer ?
+        06 - Qual é o tipo de conteudo para a marca em cada etapa do processo de venda(funil) ?
+        07 - Como seu conteudo será distribuido ?
+        08 - Como sua marca será encontrada atravez da pesquisa ?
+        09 - Como vc vai fazer tudo isso acontecer ? planejamenro estrategico / calendario editorial / linha editorial
+        10 - Como vc vai mensurar os resultados ?
+
+    Linha editorial 
+        Mesclar Informação <-> educação <-> Entreterimento
+        Ser criativo
+        Criar mapa mental - exemplo 
+        20% do conteudo pra vendas e 80% do conteudo pra relacionamento com clientes
+        Frequencia - Tentativa e erro.
+
+    Calendario editorial
+        Persona 
+        Quantidade de conteudo
+        Tema
+        Titulo
+        Data/horario de publicação
+        Canal
+        Palavras chaves
+        Categoria
+        Objetivo (Fase do funil)
+        Formato da midias
+        Profissional responsavel
+        Prazo de prosução
+        Revisão do Conteudo
+
+=== Criar conteudos e gerar leads ===
+
+    Criar campanhas e gerar leads
+
+    Visitante ------------------------
+        Lead friu/quente ---------
+            Oportunidade -----
+                Cliente --
+
+    4Pilares da performace
+        Trafego        ---     -- ------- ------   --- ----        --
+        Engajamento     ---   --  --      --- ---  --- --  --     ----
+        Conversão        --- --   ----    ---  --- --- --   --   --  --
+        Retenção          -----   --      ---   ------ --  --   --------
+                           ---    ------- ---     ---- -- --   --     --
+    CAC - Custo aquisição de clientes
+    LTV - Ciclo de vida do Cliente
+
+    Principios de estrategias de campanhas
+        Objetivos
+        Alcance / Conversão /  Trafego
+            Google ADS - Meta Business
+        KPIs e Metricas
+        Public / Segmentação
+        Investimento
+        ROI - retorno sobre o Investimento
+        ROAS - retorno sobre o investimento em anuncios
+        Prazo - longa duração para os algoritimos otimizar as campanhas
+        
+    Aspectos praticos de uma campanha
+        Ativar conta de anuncio
+        
+        - Campanhas
+            - Grupo de anuncios
+                - Anuncios
+
+        Palavras chaves 
+            Google treads
+            SemRush
+            Google
+
+    Precisa ter 
+        Texto do anuncio
+        titulo do anuncio
+        extensões
+        imagens
+        landing page (pagina de vendas)
+
+    Google Ads - Criar campanha 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
